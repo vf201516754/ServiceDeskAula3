@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ServiceDesk</string>
+    <string name="busca_fila">fila solucionadora</string>
+    <string name="botao_busca">Buscar</string>
+</resources>
